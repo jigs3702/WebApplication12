@@ -12,5 +12,8 @@ namespace WebApplication12.Models
         public string className { get; set; }
        
          public string Name { get; set; }
+        public string Id { get; set; }
+
+
     }
 }
