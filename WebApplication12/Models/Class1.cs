@@ -7,5 +7,8 @@ namespace WebApplication12.Models
 {
     public class Class1
     {
+
+
+        public string className { get; set; }
     }
 }
