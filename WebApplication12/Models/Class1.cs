@@ -10,5 +10,7 @@ namespace WebApplication12.Models
 
 
         public string className { get; set; }
+       
+         public string Name { get; set; }
     }
 }
